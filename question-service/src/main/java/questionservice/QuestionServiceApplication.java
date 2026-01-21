@@ -1,4 +1,4 @@
-package quizsb;
+package questionservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
